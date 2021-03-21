@@ -1,0 +1,6 @@
+1. Scanner class allow user to take input from the console. It belongs to java.util package.
+    Scanner scanner = new Scanner(System.in);
+    The above statement means it is going to read from the standard input stream of the program.
+    Java Scanner class provides the following methods to read different primitive types:-
+    * int nextInt() - Used to take the next token as a integer.
+    * float nextFloat() - Used to take the next token as a float value.

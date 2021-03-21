@@ -1,0 +1,4 @@
+Java Vector :
+* Vector is like dynamic array which can grow and shrink its size.
+* Part of Java Collection framework.
+* found in util.package and implments List interface.
