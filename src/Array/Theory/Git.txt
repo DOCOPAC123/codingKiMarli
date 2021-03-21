@@ -1,2 +1,3 @@
 * Local Git Repo & Remote Git Repo
-*
+* To set the bridge between local & global : git remote add origin https://github.com/DOCOPAC123/codingKiMarli.git
+* To pull the changes in branch from global Branch : git pull origin main
