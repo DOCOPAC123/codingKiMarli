@@ -1,3 +1,29 @@
+                                    --- GIT TUTORIAL ---
+
 * Local Git Repo & Remote Git Repo
 * To set the bridge between local & global : git remote add origin https://github.com/DOCOPAC123/codingKiMarli.git
 * To pull the changes in branch from global Branch : git pull origin main
+
+                commit 00926d5e0d355943a1bdaf648faab736dcb1326f (HEAD -> Theory)
+                Author: DOCOPAC123 <rohitchira@gmail.com>
+                Date:   Sun Mar 21 11:04:09 2021 +0530
+
+                    pull command from branch added
+
+                commit 33a0f68acd08bba39938a598359adfe7d5d0ab76 (origin/main, main)
+                Author: DOCOPAC123 <rohitchira@gmail.com>
+                Date:   Sun Mar 21 10:52:55 2021 +0530
+
+                    UnNecessary folder removed
+
+                commit 65f55041c545e849a169cb1cc07f73f63d0b201c
+                Author: DOCOPAC123 <rohitchira@gmail.com>
+                Date:   Sun Mar 21 10:49:28 2021 +0530
+
+                    Added the Theory Folder & Coding File
+
+* In the above code, (HEAD -> Theory) states that Head basically is where is local currently in the commit, like here head i.e.
+  local is pointing to Theory branch and the commit is 1 ahead than global. For the global, the poiner is pointing to
+  second commit.
+
+*
